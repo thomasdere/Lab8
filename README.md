@@ -1,4 +1,5 @@
-** Lab Session 5 Visualization critique:
+*Lab Session 5*
+Visualization critique:
 Lacks documentation (Instructor critique)
 Lacks References (Instructor critique)
 Scale of the “Salary” visualization contained error and also can be modified to better fit the values of the data range
